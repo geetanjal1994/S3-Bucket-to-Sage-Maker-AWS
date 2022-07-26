@@ -1,1 +1,0 @@
-# S3-bucket-to-Sage-Maker-AWS
